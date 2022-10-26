@@ -9,7 +9,6 @@ namespace DylanPham
     {
         private string favouriteGame = "Team Fortress 2";
         private int hoursPlayed = 1834;
-        private float costOfGame = 0f;
 
 
         // Start is called before the first frame update
